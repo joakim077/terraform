@@ -1,2 +1,6 @@
 # terraform
-Terraform projects
+ ```
+terraform init
+terraform validate
+terraform plan
+terraform apply
