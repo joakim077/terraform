@@ -1,0 +1,4 @@
+terraform uses .tf as extension
+it manages state of your infrastrucure     
+it stores state of infra in terraform.tfstate file
+you can store terraform.tfstate file remotyl for collaboration
