@@ -1,4 +1,4 @@
-####1 .tf file
+#### 1 .tf file
         variables.tf
           variable "instance_type" {
               description = "Type of instance"
