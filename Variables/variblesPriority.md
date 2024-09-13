@@ -10,9 +10,9 @@
     export TF_VAR_region="us-west-1"
     
 3.terraform.tfvars
-  terraform.tfvars
-      instance_type = "t2.micro"
-      region = "us-west-1"
+      terraform.tfvars
+          instance_type = "t2.micro"
+          region = "us-west-1"
     
 4.*.auto.tfvars   
 
